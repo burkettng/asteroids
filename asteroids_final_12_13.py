@@ -1,4 +1,3 @@
-#CS - 1445 Asteroids Project.
 #Nichola Burkett and Alex O'Neill.
 #12_13_2018.
 
